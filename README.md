@@ -1,2 +1,2 @@
 # Playground
-This repository for training and other
+This repository for training and experiment
