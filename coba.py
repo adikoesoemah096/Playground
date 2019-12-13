@@ -20,7 +20,7 @@ train_set = negative_features + positive_features + neutral_features
 classifier = NaiveBayesClassifier.train(train_set) 
  
 # Predict
-neg = 0
+neg = 1
 pos = 0
 neu = 0
 sentence = "Menyenangkan dengan view yg bagus dan cuaca Bandung yang sejuk,untuk makanannya enak dengan penyajian berkelas.keseluruhan puas dengan makanan,penyajian,dan tempat dengan pemandangan yang bagus"
